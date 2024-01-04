@@ -11,4 +11,11 @@ public class Creature {
     private Alignment alignment;
     private int armorClass;
     private CreatureSpeed speed;
+    private AbilityScore strength;
+    private AbilityScore dexterity;
+    private AbilityScore constitution;
+    private AbilityScore wisdom;
+    private AbilityScore charisma;
+    private AbilityScore intelligence;
+    private int challeginRating;
 }

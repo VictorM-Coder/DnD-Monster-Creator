@@ -1,14 +1,28 @@
 
 E
-java:S1068"(Remove this unused "name" private field.(Ë¥¼8ÑÍÀŞÌ1
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8÷Ú’¤Í1
 M
-java:S1068	"0Remove this unused "creatureType" private field.(¹¿Ó8ÒÍÀŞÌ1
+java:S1068	"0Remove this unused "creatureType" private field.(¹¿Ó8øÚ’¤Í1
 J
 java:S1068
-"(Remove this unused "size" private field.(ÉìöÎûÿÿÿÿ8ÒÍÀŞÌ1
+"(Remove this unused "size" private field.(ÉìöÎûÿÿÿÿ8øÚ’¤Í1
 I
-java:S1068"-Remove this unused "alignment" private field.(‚²İq8ÒÍÀŞÌ1
+java:S1068"-Remove this unused "alignment" private field.(‚²İq8øÚ’¤Í1
 P
-java:S1068".Remove this unused "armorClass" private field.(•€İ¸ıÿÿÿÿ8ÒÍÀŞÌ1
+java:S1068".Remove this unused "armorClass" private field.(•€İ¸ıÿÿÿÿ8øÚ’¤Í1
 F
-java:S1068")Remove this unused "speed" private field.(š¾î8ÒÍÀŞÌ1
+java:S1068")Remove this unused "speed" private field.(š¾î8ùÚ’¤Í1
+I
+java:S1068",Remove this unused "strength" private field.(½íÿ8ùÚ’¤Í1
+I
+java:S1068"-Remove this unused "dexterity" private field.(Ï'8ùÚ’¤Í1
+M
+java:S1068"0Remove this unused "constitution" private field.(õùö“8ùÚ’¤Í1
+G
+java:S1068"*Remove this unused "wisdom" private field.(†š‚Ö8ùÚ’¤Í1
+N
+java:S1068",Remove this unused "charisma" private field.(ç´…äúÿÿÿÿ8ùÚ’¤Í1
+R
+java:S1068"0Remove this unused "intelligence" private field.(öœÓ•ûÿÿÿÿ8úÚ’¤Í1
+P
+java:S1068"3Remove this unused "challeginRating" private field.(¹—Í„8úÚ’¤Í1

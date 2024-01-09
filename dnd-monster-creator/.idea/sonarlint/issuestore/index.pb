@@ -26,3 +26,17 @@ r
 Bsrc/main/java/coder/victorm/models/creature/enums/DamageTypes.java,b\6\b632fb903052643f6b99e90f1f6cfc2d8d4de655
 g
 7src/main/java/coder/victorm/models/creature/Senses.java,0\5\0564557a0c8b1d7e47a75e4c170f195c6df09090
+b
+2src/test/java/RandomCreatureTypeGeneratorTest.java,f\f\ffeff504a6af129239f6ad57fe66a83eb8bda80b
+s
+Csrc/main/java/coder/victorm/randomizers/CreatureTypeRandomizer.java,4\e\4e56933ef298aa0db370852a16628d945aa2f6bc
+s
+Csrc/main/java/coder/victorm/models/creature/enums/CreatureType.java,6\e\6e0ceb61bc2f0693d3f225796e9fdc7668b73f52
+R
+"src/test/java/ArrayRandomizer.java,2\d\2d4921d65f582e3db816ccf4d0f6224b9e000926
+m
+=src/main/java/coder/victorm/randomizers/ArrrayRandomizer.java,0\2\026ebce91dc4c9010fcf95afbe6fd2b5be3d0aeb
+V
+&src/test/java/ArrayRandomizerTest.java,f\b\fb410cf1b4fbc063df6a320abce94a4998063915
+l
+<src/main/java/coder/victorm/randomizers/ArrayRandomizer.java,8\0\808321338374ef3f8479702a97208f859a8122c3

@@ -1,28 +1,38 @@
 
 E
-java:S1068"(Remove this unused "name" private field.(Ë¥¼8÷Ú’¤Í1
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8Ä²¦ñÎ1
 M
-java:S1068	"0Remove this unused "creatureType" private field.(¹¿Ó8øÚ’¤Í1
+java:S1068	"0Remove this unused "creatureType" private field.(¹¿Ó8Å²¦ñÎ1
 J
 java:S1068
-"(Remove this unused "size" private field.(ÉìöÎûÿÿÿÿ8øÚ’¤Í1
+"(Remove this unused "size" private field.(ÉìöÎûÿÿÿÿ8Å²¦ñÎ1
 I
-java:S1068"-Remove this unused "alignment" private field.(‚²İq8øÚ’¤Í1
+java:S1068"-Remove this unused "alignment" private field.(‚²İq8Å²¦ñÎ1
 P
-java:S1068".Remove this unused "armorClass" private field.(•€İ¸ıÿÿÿÿ8øÚ’¤Í1
+java:S1068".Remove this unused "armorClass" private field.(•€İ¸ıÿÿÿÿ8Å²¦ñÎ1
 F
-java:S1068")Remove this unused "speed" private field.(š¾î8ùÚ’¤Í1
+java:S1068")Remove this unused "speed" private field.(š¾î8Æ²¦ñÎ1
 I
-java:S1068",Remove this unused "strength" private field.(½íÿ8ùÚ’¤Í1
+java:S1068",Remove this unused "strength" private field.(½íÿ8Æ²¦ñÎ1
 I
-java:S1068"-Remove this unused "dexterity" private field.(Ï'8ùÚ’¤Í1
+java:S1068"-Remove this unused "dexterity" private field.(Ï'8Æ²¦ñÎ1
 M
-java:S1068"0Remove this unused "constitution" private field.(õùö“8ùÚ’¤Í1
+java:S1068"0Remove this unused "constitution" private field.(õùö“8Æ²¦ñÎ1
 G
-java:S1068"*Remove this unused "wisdom" private field.(†š‚Ö8ùÚ’¤Í1
+java:S1068"*Remove this unused "wisdom" private field.(†š‚Ö8Æ²¦ñÎ1
 N
-java:S1068",Remove this unused "charisma" private field.(ç´…äúÿÿÿÿ8ùÚ’¤Í1
+java:S1068",Remove this unused "charisma" private field.(ç´…äúÿÿÿÿ8Ç²¦ñÎ1
 R
-java:S1068"0Remove this unused "intelligence" private field.(öœÓ•ûÿÿÿÿ8úÚ’¤Í1
+java:S1068"0Remove this unused "intelligence" private field.(öœÓ•ûÿÿÿÿ8Ç²¦ñÎ1
 P
-java:S1068"3Remove this unused "challeginRating" private field.(¹—Í„8úÚ’¤Í1
+java:S1068"3Remove this unused "challengeRating" private field.(î¾¡8Ç²¦ñÎ1
+Q
+java:S1068"4Remove this unused "proficiencyBonus" private field.(”“Èê8Ç²¦ñÎ1
+W
+java:S1068":Remove this unused "proficientSavingThrows" private field.(È„²ë8Ç²¦ñÎ1
+Q
+java:S1068"4Remove this unused "proficientSkills" private field.(¹Á§8Ç²¦ñÎ1
+O
+java:S1068"-Remove this unused "languages" private field.(‰…ØÑüÿÿÿÿ8ñû§ñÎ1
+G
+java:S1068"*Remove this unused "senses" private field.(¶ıÊ8ƒˆ¬ñÎ1

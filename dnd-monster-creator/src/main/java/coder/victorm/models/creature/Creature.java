@@ -1,8 +1,8 @@
 package coder.victorm.models.creature;
 
-import coder.victorm.models.creature.enums.Alignment;
-import coder.victorm.models.creature.enums.CreatureSize;
-import coder.victorm.models.creature.enums.CreatureType;
+import coder.victorm.models.creature.enums.*;
+
+import java.util.HashSet;
 
 public class Creature {
     private String name;
@@ -17,5 +17,10 @@ public class Creature {
     private AbilityScore wisdom;
     private AbilityScore charisma;
     private AbilityScore intelligence;
-    private int challeginRating;
+    private int challengeRating;
+    private int proficiencyBonus;
+    private HashSet<AbilityScore> proficientSavingThrows;
+    private HashSet<Skills> proficientSkills;
+    private HashSet<Language> languages;
+    private Senses senses;
 }
